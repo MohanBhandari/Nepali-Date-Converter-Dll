@@ -1,4 +1,4 @@
-# Nepali-Date-Converter-Dll
+# Nepali-Date-Converter-Dll C# code
 
 (between nepali date 2000 to 2121BS)
 - convert to English date
